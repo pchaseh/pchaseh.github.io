@@ -1,0 +1,24 @@
+experience:
+  - company: "Path Network"
+    role: "Lead Developer"
+    period: "2020 - Present"
+    description: "Led the development of a globally distributed, software-defined network designed to detect and mitigate large-scale DDoS attacks using eBPF/XDP"
+    highlights:
+      - "Optimized latency-sensitive networking software and server hardware through profiling, benchmarking, tuning, and performance analysis"
+      - "Designed and built high-performance distributed systems, network services, and APIs supporting real-time traffic analysis, mitigation, and infrastructure management"
+      - "Uncovered and disclosed security vulnerabilities and software defects affecting the Linux kernel, third-party applications, and networking vendor products"
+      - "Provided technical support with an emphasis on incident response"
+      - "Maintained and enhanced critical production infrastructure"
+  - company: "ResCloud"
+    role: "Software Engineer"
+    period: "2020 - 2021"
+    description: "Developed an intelligent, distributed proxy system"
+    highlights:
+      - "Wrote cross-platform, self-updating, high-availability software"
+      - "Designed and interfaced with NoSQL databases"
+
+education:
+  - institution: "Cégep de Drummondville"
+    degree: "DEC in Computer Science"
+    period: "2019 - 2023"
+    description: "Completed a four-year Tremplin DEC at a francophone institution including a three-year Computer Science program"
